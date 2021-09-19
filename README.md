@@ -53,9 +53,3 @@ The script is supposed to:
 However, if you run the script, you will notice that the created JSON file always contains an empty `definitions` property, even though the console reports downloading the acronym data.
 
 Fix the code to match the listed functionality.
-
-## Submission
-
-Once you are completed with your work, please push all commits to your fork, and send an email to <ben.steenson@2and2.com.au> to confirm you have completed the task.
-
-You should not include any of the **outputX.json** files (as per the **.gitignore** file). Your code will be tested to verify it performs the expected functionality.
