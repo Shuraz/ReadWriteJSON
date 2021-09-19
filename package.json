@@ -1,0 +1,14 @@
+{
+  "name": "developer-exam-practical",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.8.2",
+    "jsonfile": "^6.1.0",
+    "randomstring": "^1.1.5",
+    "request": "^2.79.0"
+  }
+}
